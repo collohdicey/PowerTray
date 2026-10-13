@@ -1,0 +1,42 @@
+# Visual Studio and IDE state
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+out/
+artifacts/
+publish/
+TestResults/
+
+# Local .NET CLI state and caches
+.dotnet-cli/
+.nuget/
+
+# NuGet packages and generated package metadata
+*.nupkg
+*.snupkg
+packages/
+
+# Coverage and diagnostics
+coverage/
+*.coverage
+*.coveragexml
+
+# Generated logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
